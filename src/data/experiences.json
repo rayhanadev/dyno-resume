@@ -1,0 +1,49 @@
+[
+  {
+    "position": "Trust & Safety Engineering Intern",
+    "company": "Replit",
+    "location": "San Francisco, CA",
+    "dates": "03/2023 - 05/2024",
+    "responsibilities": [
+      "Developed and deployed advanced abuse detection systems and microservices, streamlining large-scale actions.",
+      "Implemented early-warning abuse alerts to swiftly address potential issues and safeguard platform integrity.",
+      "Engineered cutting-edge security infrastructure to combat site abuse, phishing, credit card fraud, and copyright violations.",
+      "Leveraged data analysis techniques to identify and mitigate emerging abuse vectors.",
+      "Orchestrated a team of community moderators, fostering strong relations and facilitating communications and events."
+    ]
+  },
+  {
+    "position": "IB Computer Science Teaching Assistant",
+    "company": "Westlake Academy",
+    "location": "Westlake, TX",
+    "dates": "08/2022 - 05/2024",
+    "responsibilities": [
+      "Supported students across various grade levels, offering one-on-one guidance and clarification on complex topics to enhance understanding and facilitate academic success.",
+      "Actively assisted the teacher in delivering lessons, providing valuable insights from industry experience to supplement classroom instruction.",
+      "Collaborated with the teacher to develop and implement innovative teaching strategies, fostering student engagement and critical thinking."
+    ]
+  },
+  {
+    "position": "Freelance Web Developer",
+    "company": "Multiple Companies",
+    "dates": "09/2022 - 01/2023",
+    "responsibilities": [
+      "Developed various web applications, including AI generative art platforms, internal search tools, and project management dashboards.",
+      "Created products in a variety of languages, such as Node.js, Python, Golang, and Lua.",
+      "Designed user interfaces and brand identities from scratch.",
+      "Optimized user experiences to fine-tune the adoption of new applications.",
+      "Worked with over eight clients in six months, multitasking various projects and balancing meeting schedules."
+    ]
+  },
+  {
+    "position": "Web Developer",
+    "company": "Deel",
+    "location": "San Francisco, CA",
+    "dates": "09/2022 - 09/2022",
+    "responsibilities": [
+      "Shipped a full-stack web application, integrating Algolia into Deel's blog search, based on the client's specifications in two weeks, well under the client's expected time.",
+      "Offered strong client service skills, regularly meeting with clients and creating a product that exceeded expectations.",
+      "Performed optimizations and tweaks based on feedback from the marketing team."
+    ]
+  }
+]
