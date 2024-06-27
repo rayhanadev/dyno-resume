@@ -6,13 +6,13 @@ import experience from "./sections/experience";
 import skills from "./sections/skills";
 import education from "./sections/education";
 
-import headerData from "./data/profile.json";
-
 const doc = new PDFDocument({ size: "A4", margin: 50 });
 
 doc.pipe(fs.createWriteStream("resume.pdf"));
 
-header(doc, headerData);
+header(doc, {
+  data: await import("./data/profile.json").then((m) => m.default),
+});
 experience(doc, {
   items: await import("./data/experiences.json").then((m) => m.default),
 });

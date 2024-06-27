@@ -1,19 +1,19 @@
 export default async function component(
   doc: PDFKit.PDFDocument,
   {
-    name,
-    email,
-    phone,
-    summary,
-    location,
+    data,
   }: {
-    name: string;
-    email: string;
-    phone: string;
-    summary: string;
-    location: string;
+    data: {
+      name: string;
+      email: string;
+      phone: string;
+      summary: string;
+      location: string;
+    };
   }
 ) {
+  const { name, email, phone, summary, location } = data;
+
   doc.fontSize(20).text(name, {
     align: "center",
   });
